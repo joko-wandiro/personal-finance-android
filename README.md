@@ -3,9 +3,8 @@
 It used for log your personal finance.
 
 ## Setup
-- Download daily_financial_app.zip
-- Extract archive file
-- Run Application
+- Download personal-finance.apk
+- Install Application
 
 ## License
 
